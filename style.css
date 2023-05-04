@@ -1,0 +1,135 @@
+                                    /*index*/
+body{
+    background-image: url(img/backgrund.jpg);
+}
+
+.h1-index{
+   margin-right: 3cm;
+   margin-left: 1cm;
+}
+
+a{
+    text-decoration: none;
+ }
+
+                       /* comienzo de mi main del index */
+.main-index {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2cm;
+}
+.h2-index{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: azure;
+}
+.p-index{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+    margin-bottom: 3cm;
+}
+.a-index-maps{
+    color: yellow;
+}
+                                /*footers */
+footer h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: azure;
+    background-color: blue;
+    margin-top: 5cm;
+}
+footer li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: azure;}
+footer a{
+    color: yellow;
+}
+                     /*comienzo del css de la pagina sobre nosotros  */
+main iframe{
+    margin-top: 1cm;
+    margin-left: 11cm
+}
+.h2-nosotros{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: azure;
+    margin-left: 19cm;
+}
+.sobre-nosotros{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+}
+                           /*comienzo del css de pagina suplementos*/
+ .img-sns{
+    margin-left: 22cm;
+    margin-top: 2cm;
+ }
+ .h2-suplementos{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: azure;
+    margin-left: 14cm;
+ }
+ p.suplementos{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: azure;
+    margin-top: 3cm;
+ }
+ .a-suplementos{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: yellow;
+
+ }
+                               /*css de la tienda */
+.h2-indumentaria{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-color: azure;
+    margin-right: 35cm;
+}
+.ul-indumentaria{
+   font-size: xx-large;
+   font-family: 'Times New Roman', Times, serif;
+   color: azure;
+   margin-left: 42cm;
+   border-style: solid;
+   border-color: azure;
+   border-radius: 1cm;
+   border-width: 5px;
+}
+.div-ropas{
+    margin-left: 20cm;
+}
+.p-indumentaria{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;}
+                             /*css de Jesain*/
+.jesain-logo{
+    margin-top: 2cm;
+    margin-left: 22cm;
+ }
+ .h2-jesain{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+    margin-top: 2cm;
+
+ }
+ .p-jesain{
+    color: azure;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+
+
